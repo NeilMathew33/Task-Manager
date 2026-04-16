@@ -12,7 +12,7 @@ const TaskNavbar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="/">Add Task</a>
+        <a class="nav-link active" aria-current="page" href="/Add">Add Task</a>
         <a class="nav-link" href="/ViewAll">View All Tasks</a>
         
       </div>
