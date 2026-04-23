@@ -23,6 +23,7 @@ const Login = () => {
         <button className="btn btn-success">Login</button>
     </div>
   </div>
+  <a href="/SignUp">New Users Click Here</a>
 </div>
 
         </div>
